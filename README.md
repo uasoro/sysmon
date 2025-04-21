@@ -1,4 +1,4 @@
-# sysmon 0.1
+# sysmon
 Сompact bash-script for quick diagnostics of linux system. Beautiful and minimalistic console output
 
 ![изображение](https://github.com/user-attachments/assets/a46b5daf-9795-4833-a4fb-2a830917cea0)
